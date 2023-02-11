@@ -1,0 +1,27 @@
+
+table{
+    border: 2px  #fec107;
+    border-collapse: collapse;
+    font-family: 'Roboto', sans-serif;
+    margin: 30px;
+    line-height: 50px;
+    width: 600px;
+
+}
+
+th{
+background: #fec107;
+text-align: center;
+text-transform: uppercase;
+}
+
+.lastname{
+    background: #f0b61f;
+}
+
+td{
+    background: #382c6e;
+    padding-left: 15px;
+    color: white;
+}
+
